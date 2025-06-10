@@ -2,19 +2,19 @@ const Orders = [
     {
         productName: 'luna',
         productNumber: '100',
-        paymentStatus: 'sudah',
+        paymentStatus: 'selesai',
         status: 'Active'
     },
     {
-        productName: 'faren',
+        productName: 'AFAREN',
         productNumber: '50',
-        paymentStatus: 'sudah',
+        paymentStatus: 'selesai',
         status: 'Active'
     },
     {
-        productName: 'ardani',
-        productNumber: '50',
-        paymentStatus: 'sudah',
+        productName: 'Flex-Box Tutorial',
+        productNumber: '36452',
+        paymentStatus: 'Paid',
         status: 'Active'
     },
 ]
